@@ -1,0 +1,60 @@
+﻿<project version="2.9" name="RENTAL" ID="7E9FB51A-B0EA-4FBB-9D17-7128CDBAFA12">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1280,800)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="0142C0EC-BB07-4F39-9244-A970E5347DBE" expanded="True" code="AB3Nkolekd" thumbCode="AB3Nkolekd" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D2B69EFC7150317B5A1255FDD32AA426.svg"/>
+        <image key="EFFB1652F202256A4558A610C1C1ED36.svg"/>
+        <image key="59EF24101E7B990BE3B07D6C8AE11E1A.svg"/>
+        <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        <image key="65F3459F2D8027D62C45615EF39A5875.svg"/>
+        <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+      </images>
+    </page>
+    <page name="Page1" ID="618C6DB5-32BE-49EC-9046-D55286D7A5D9" expanded="True" code="JJcZlM2aGh" thumbCode="JJcZlM2aGh" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D2B69EFC7150317B5A1255FDD32AA426.svg"/>
+        <image key="EFFB1652F202256A4558A610C1C1ED36.svg"/>
+        <image key="59EF24101E7B990BE3B07D6C8AE11E1A.svg"/>
+        <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        <image key="65F3459F2D8027D62C45615EF39A5875.svg"/>
+      </images>
+    </page>
+    <page name="Page" ID="F2D31EE4-7619-4B22-84CE-1B5FBC686A8D" expanded="True" code="nshtVWkRca" thumbCode="nshtVWkRca" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="59EF24101E7B990BE3B07D6C8AE11E1A.svg"/>
+        <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        <image key="F76E4017E7F2948B19AAF407C9D590D5.svg"/>
+        <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+      </images>
+    </page>
+    <page name="Page2" ID="6275F69C-183C-48F9-9551-935A51BDAB8C" expanded="True" code="eGyaysp5qj" thumbCode="eGyaysp5qj" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="E6846E633DC1587E343959CBA8946201.svg"/>
+        <image key="59EF24101E7B990BE3B07D6C8AE11E1A.svg"/>
+        <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+        <image key="543D791B3754941BFF2B36B46E384F0E.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="EFFB1652F202256A4558A610C1C1ED36.svg"/>
+    <image key="543D791B3754941BFF2B36B46E384F0E.svg"/>
+    <image key="E6846E633DC1587E343959CBA8946201.svg"/>
+    <image key="59EF24101E7B990BE3B07D6C8AE11E1A.svg"/>
+    <image key="65F3459F2D8027D62C45615EF39A5875.svg"/>
+    <image key="F76E4017E7F2948B19AAF407C9D590D5.svg"/>
+    <image key="D2B69EFC7150317B5A1255FDD32AA426.svg"/>
+    <image key="D9CE39CAA2C488188BF922BD18FCD68B.svg"/>
+    <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+    <image key="4CEBA48D845888E06C868951A5E1A875.svg"/>
+  </images>
+</project>

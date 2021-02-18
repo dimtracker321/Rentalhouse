@@ -1,0 +1,108 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F2D31EE4-7619-4B22-84CE-1B5FBC686A8D" platform="MtWeb" defaultW="1280" defaultH="800" measureW="1280" measureH="800" mobileScreenScale="0">
+  <controls controlCount="12">
+    <control controlID="1334FBFE-C77C-4443-BA70-834487900FFB" controlTypeID="Panel" x="0" y="0" w="1280" h="80" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="0D140F73-5E08-4E3F-808F-263A96723523" controlTypeID="Border" x="0" y="0" w="1280" h="80" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="0FE1F990-9229-4F94-A86D-B16F43E85696" controlTypeID="Icon" x="20" y="15" w="38" h="38" zOrder="1">
+      <color>4291559424</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61965</iconCode>
+      </icon>
+      <URL>D9CE39CAA2C488188BF922BD18FCD68B.svg</URL>
+    </control>
+    <control controlID="CD1FBA35-DA45-40C0-AE2D-A01109212493" controlTypeID="Icon" x="91" y="16" w="36" h="36" zOrder="2">
+      <color>4291559424</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoMoonFree</iconFontName>
+        <iconCode>59648</iconCode>
+      </icon>
+      <URL>59EF24101E7B990BE3B07D6C8AE11E1A.svg</URL>
+    </control>
+    <control controlID="C54E5250-BFBA-40A9-8BF6-96509382A89A" controlTypeID="Label" x="252" y="289" w="133" h="35" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>USERNAME</text>
+      <textColor>4291559424</textColor>
+      <textSize>26</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9A172C88-5973-4B09-8AFD-75810A65C303" controlTypeID="TextInput" x="399" y="283" w="442" h="48" zOrder="4">
+      <color>483131392</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CD9BC623-9554-42F6-AF35-0E370463554B" controlTypeID="Label" x="251" y="377" w="135" h="35" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>PASSWORD</text>
+      <textColor>4291559424</textColor>
+      <textSize>26</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D54334E0-8BAA-4C83-B23E-15BA9677D0BA" controlTypeID="TextInput" x="396" y="377" w="442" h="48" zOrder="6">
+      <color>483131392</color>
+      <borderColor>4278190080</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="75B25BC0-3CE7-4462-9536-E3FD2E289EFC" controlTypeID="Button" x="467" y="460" w="130" h="55" zOrder="7">
+      <color>4291559424</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>LOGIN</text>
+      <textColor>4294967295</textColor>
+      <textSize>22</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="DB30107D-AFAE-4BF2-9958-0E04ECC7C105" controlTypeID="Button" x="622" y="460" w="130" h="55" zOrder="8">
+      <color>4291559424</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>SIGNUP</text>
+      <textColor>4294967295</textColor>
+      <textSize>22</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="8D70CB81-2ADA-475D-A916-6B9AE3920CE5" controlTypeID="Icon" x="622" y="593" w="95" h="95" zOrder="9">
+      <color>4291559424</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62005</iconCode>
+      </icon>
+      <URL>F76E4017E7F2948B19AAF407C9D590D5.svg</URL>
+    </control>
+    <control controlID="B8BCCB68-95E0-429B-94A5-5453FCC95F34" controlTypeID="Icon" x="513" y="599" w="84" h="84" zOrder="10">
+      <color>4278216447</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61570</iconCode>
+      </icon>
+      <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
